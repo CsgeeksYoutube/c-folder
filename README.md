@@ -1,13 +1,6 @@
 In this course, I'll show you the basics of a C program, and then we'll dive into the details of data types, strings, and variables.
 Then, I'll show you how these basic ideas fit together with control structures like loops and if statements. After that, we'll take a look at how C organizes information in arrays and how it manages memory using pointers.
 
-Time Stamps:--
-Identifier:-- 00:01:08
-KeyWords:--00:06:00
-Datatype:--00:06:54
-Signed & Unsigned:--00:15:33
-Constants:--00:18:03
-
 
 =======================================================
 ✅ Second Channel:----https://www.youtube.com/channel/UCFpCo01pOGe4tEbOTnn4_UQ
