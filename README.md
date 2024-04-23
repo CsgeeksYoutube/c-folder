@@ -2,10 +2,10 @@ In this course, I'll show you the basics of a C program, and then we'll dive int
 Then, I'll show you how these basic ideas fit together with control structures like loops and if statements. After that, we'll take a look at how C organizes information in arrays and how it manages memory using pointers.
 
 
-=======================================================
+================================================================================================================================================================================================
 ✅ Second Channel:----https://www.youtube.com/channel/UCFpCo01pOGe4tEbOTnn4_UQ
 
-=======================================================
+================================================================================================================================================================================================
 ✅ Other Playlists,
 📢 Digital Logic:-- https://www.youtube.com/playlist?list=PLjg_q5DKU9YsGrImuyl7km5jp07e-LnRf
 
